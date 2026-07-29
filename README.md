@@ -1,5 +1,3 @@
-<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpages%20WEBP.webp" />
-
 Kirbylite is a lightweight modlist for Skyrim Special Edition built as an “entry level modern Skyrim” focused on stability, performance, and a vanilla plus feel, powered by MCO combat and Community Shaders. It delivers smooth, animation driven combat, a subtle yet modern visual overhaul, and keeps vanilla perks and UI.
 
 # 🌟INSTALLATION GUIDE: https://www.nexusmods.com/skyrimspecialedition/articles/11618
@@ -17,6 +15,8 @@ Kirbylite is a lightweight modlist for Skyrim Special Edition built as an “ent
 - [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe) 
 - [The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition) 
 - [Nexus Account](https://www.nexusmods.com)
+
+<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpages%20WEBP.webp" />
 
 ## ⚔️ MCO Based Combat
 Modern, animation driven melee combat built on an MCO style framework, with responsive attacks and directional movement that still feels readable and intuitive.
