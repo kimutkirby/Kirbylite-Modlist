@@ -4,14 +4,12 @@ Kirbylite is a lightweight modlist for Skyrim Special Edition built as an “ent
 
 # 🌟INSTALLATION GUIDE: https://www.nexusmods.com/skyrimspecialedition/articles/11618
 
-# 🌟Additional Installation for DBVO Voice Packs: https://www.nexusmods.com/skyrimspecialedition/articles/12203
-
 # 🌟LINKS
 - Nexus: https://www.nexusmods.com/profile/Kimutkirby
 - Discord Server: https://discord.com/invite/4N4rWBFVKP
 - Load Order Library: https://loadorderlibrary.com/lists/kirbykings-modlist-nsfw-edition
 - YouTube: https://youtube.com/@Kimuts
-- Support this Modlist: https://www.patreon.com/11775487/join
+- Support Kirby: https://www.patreon.com/11775487/join
 
 # 🌟Requirements
 - [NET 8.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) 
@@ -19,8 +17,6 @@ Kirbylite is a lightweight modlist for Skyrim Special Edition built as an “ent
 - [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe) 
 - [The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition) 
 - [Nexus Account](https://www.nexusmods.com)
-
-<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044964-874374357.png" />
 
 ## ⚔️ MCO Based Combat
 Modern, animation driven melee combat built on an MCO style framework, with responsive attacks and directional movement that still feels readable and intuitive.
@@ -31,4 +27,4 @@ Perk trees remain vanilla to keep builds simple and familiar, while the UI stays
 ## ⚔️ Next-Gen Look with Community Shaders
 Uses Community Shaders as the core visual overhaul, bringing modern lighting, materials, and effects.
 
-<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/kirbykings%20NSFW%20Media%201.png" />
+<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044964-874374357.png" />
