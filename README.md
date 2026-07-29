@@ -29,4 +29,4 @@ Perk trees remain vanilla to keep builds simple and familiar, while the UI stays
 ## ⚔️ Next-Gen Look with Community Shaders
 Uses Community Shaders as the core visual overhaul, bringing modern lighting, materials, and effects.
 
-<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044964-874374357.png" />
+<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/186669/186669-1785362564-1428775310.jpg" />
