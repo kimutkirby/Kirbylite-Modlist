@@ -5,7 +5,7 @@ Kirbylite is a lightweight modlist for Skyrim Special Edition built as an “ent
 # 🌟LINKS
 - Nexus: https://www.nexusmods.com/profile/Kimutkirby
 - Discord Server: https://discord.com/invite/4N4rWBFVKP
-- Load Order Library: https://loadorderlibrary.com/lists/kirbykings-modlist-nsfw-edition
+- Load Order Library: https://loadorderlibrary.com/lists/kirbylite
 - YouTube: https://youtube.com/@Kimuts
 - Support Kirby: https://www.patreon.com/11775487/join
 
