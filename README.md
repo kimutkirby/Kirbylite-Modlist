@@ -18,7 +18,7 @@ Kirbylite is a lightweight modlist for Skyrim Anniversarry Edition built as an �
 - [The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition) 
 - [Nexus Account](https://www.nexusmods.com)
 
-<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Kirbylite-Modlist/refs/heads/main/Kirbylite%20Tumbnail%20WEBP.webp" />
+<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1788984193-540830654.png" />
 
 ## ⚔️ MCO Based Combat
 Modern, animation driven melee combat built on an MCO style framework, with responsive attacks and directional movement that still feels readable and intuitive.
