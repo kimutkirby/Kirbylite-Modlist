@@ -9,7 +9,8 @@ Kirbylite is a lightweight modlist for Skyrim Anniversarry Edition built as an â
 - Discord Server: https://discord.com/invite/4N4rWBFVKP
 - Load Order Library: https://loadorderlibrary.com/lists/kirbylite
 - YouTube: https://youtube.com/@Kimuts
-- Support Kirby: https://www.patreon.com/11775487/join
+- Support me on Patreon: https://www.patreon.com/11775487/join
+- Buy Me A Coffe: https://www.buymeacoffee.com/Kimutkirby
 
 # ðŸŒŸRequirements
 - [NET 8.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) 
